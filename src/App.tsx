@@ -173,12 +173,13 @@ function App(): React.JSX.Element {
       codeUrl: 'https://github.com/AmishRahman2005/Classic-Snake-Game/tree/master/Snake/src'
     },
     {
-      title: 'Weather Dashboard',
+      title: 'Parallel Universe Generator',
       description:
-        'Coming Soon! 🌤️ A weather dashboard that provides real-time weather updates and forecasts. Built with JavaScript and Chart.js, this project will showcase my skills in API integration and data visualization.',
-      technologies: ['JavaScript', 'Chart.js', 'REST API', 'CSS3'],
-      demoUrl: '#',
-      codeUrl: '#'
+        'This is an educational + entertainment web app that lets you generate your own parallel universe with unique rules, settings, and possibilities. With every click, a new universe is born—complete with its own logic and cosmic identity.',
+      technologies: ['React', 'Node', 'CSS', 'Tailwind CSS'],
+      image: '/Parallel.png',
+      demoUrl: 'https://cosmic-click-creations.vercel.app/',
+      codeUrl: 'https://github.com/AmishRahman2005/Parallel-Universe-generator'
     }
   ];
 
